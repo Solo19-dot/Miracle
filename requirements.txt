@@ -4,3 +4,4 @@ pandas
 numpy
 pdfplumber
 python-docx
+openpyxl
